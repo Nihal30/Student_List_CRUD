@@ -1,0 +1,32 @@
+
+.input{
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 7px;
+   
+    
+}
+.btn{
+    margin-left: 2px;
+    margin-right: 10px;
+}
+.SLTypo{
+    background-color:#2F4F4F ;
+    color:aliceblue;
+}
+.t{
+    background-color: 	#708090;
+    color: aliceblue;
+}
+.tr{
+    background-color: #708090;
+}
+.trd{
+    background-color: aliceblue;
+    color: #2F4F4F;
+    size: 100px;
+}
+.body{
+    background-color: aliceblue;
+}
+

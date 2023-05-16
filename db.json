@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 4,
+      "name": "Nihal",
+      "email": "nihal@gmail.com",
+      "contact": "1234567980"
+    },
+    {
+      "id": 5,
+      "name": "Nihal",
+      "email": "nihal@gmail.com",
+      "contact": "1234567980"
+    },
+    {
+      "name": "sonu",
+      "email": "sonu@gmail.com",
+      "contact": "1234567890",
+      "id": 7
+    }
+  ]
+}
